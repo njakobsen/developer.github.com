@@ -158,7 +158,7 @@ to simulate work that's going on. During that processing, we also make a call to
 switch the status to `pending`.
 
 After the deployment is finished, we set the status to `success`. You'll notice
-that this pattern is the exact same as when we you your CI statuses.
+that this pattern is the exact same as when we send you your CI statuses.
 
 ## Conclusion
 
